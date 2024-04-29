@@ -397,6 +397,10 @@
   .footer{
     margin-top: 40vh;
   }
+
+ .footer table{
+    margin-top:40vh;
+ }
   .footer a{
     font-size: 1.25vw;
   }
