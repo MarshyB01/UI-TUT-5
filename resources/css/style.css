@@ -394,12 +394,12 @@
     height: 17vh;
   }
 
-  .footer{
-    margin-top: 40vh;
+    .footer{
+    margin-top: -90vh;
   }
 
  .footer table{
-    margin-top:40vh;
+    margin-top: 0vh;
  }
   .footer a{
     font-size: 1.25vw;
